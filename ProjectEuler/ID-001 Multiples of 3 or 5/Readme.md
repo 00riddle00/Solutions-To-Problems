@@ -3,7 +3,8 @@ sum of these multiples is 23.
 
 Find the sum of all the multiples of 3 or 5 below 1000.
 
-Answer:  233168
+Answer:  **233168**
 
 [Original Source](https://projecteuler.net/problem=1)
+
 [Problem Overview](https://projecteuler.net/overview=0001)
