@@ -10,9 +10,8 @@ The function should take three arguments - operation(string/char), value1(number
 The function should return result of numbers after applying the chosen operation.
 <br><br>
 
-Examples
+Examples (Operator, value1, value2) --> output:
 ```
-(Operator, value1, value2) --> output
 ('+', 4, 7) --> 11
 ('-', 15, 18) --> -3
 ('*', 5, 5) --> 25
