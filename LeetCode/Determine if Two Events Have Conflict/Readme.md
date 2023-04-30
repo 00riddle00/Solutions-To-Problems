@@ -14,6 +14,7 @@ A conflict happens when two events have some non-empty intersection (i.e., some 
 both events).
 
 Return `true` if there is a conflict between two events. Otherwise, return `false`.
+<br><br>
 
 Example 1:
 ```
@@ -35,6 +36,7 @@ Input: event1 = ["10:00","11:00"], event2 = ["14:00","15:00"]
 Output: false
 Explanation: The two events do not intersect.
 ```
+<br>
 
 Constraints:
 - `event1.length == event2.length == 2`
