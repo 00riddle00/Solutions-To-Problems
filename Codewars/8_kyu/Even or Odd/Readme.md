@@ -1,4 +1,6 @@
-Create a function that takes an integer as an argument and returns "Even" for even numbers or "Odd"
-for odd numbers.
+Problem description at Codewars can be found [here](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python).
 
-[Original Source](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe/train/python)
+-------------
+
+Create a function that takes an integer as an argument and returns `"Even"` for even numbers or 
+`"Odd"` for odd numbers.
