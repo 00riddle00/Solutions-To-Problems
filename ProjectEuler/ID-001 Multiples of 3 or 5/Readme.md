@@ -5,6 +5,8 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 Answer:  **233168**
 
-[Original Source](https://projecteuler.net/problem=1)
+-------------
 
-[Problem Overview](https://projecteuler.net/overview=0001)
+[Problem description](https://projecteuler.net/problem=1)
+
+[Problem overview](https://projecteuler.net/overview=0001)
