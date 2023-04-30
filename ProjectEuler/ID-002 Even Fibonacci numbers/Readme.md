@@ -6,7 +6,10 @@ with 1 and 2, the first 10 terms will be:
 By considering the terms in the Fibonacci sequence whose values do not exceed four million, find the
 sum of the even-valued terms.
 
-Answer: 4613732
+Problem description can also be found [here](https://projecteuler.net/problem=2).
 
-[Original Source](https://projecteuler.net/problem=2)
-[Problem Overview](https://projecteuler.net/overview=0002)
+------------
+
+Answer: **4613732**
+
+Problem overview sheet can be found [here](https://projecteuler.net/overview=0002).
