@@ -1,1 +1,1 @@
-All solutions written for Oracle DBMS.
+All solutions were written using SQL for Oracle DBMS.

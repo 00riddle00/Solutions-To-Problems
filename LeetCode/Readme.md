@@ -1,3 +1,3 @@
-https://leetcode.com/
+[Leet Code](https://leetcode.com/)
 
-All solutions tested with Python 3.11
+All solutions were tested with Python 3.11.

@@ -1,3 +1,3 @@
-https://projecteuler.net/
+[Project Euler](https://projecteuler.net/)
 
-All solutions tested with Python 3.11
+All solutions were tested with Python 3.11.
