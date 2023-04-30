@@ -1,3 +1,3 @@
-https://www.codewars.com/
+[Codewars](https://www.codewars.com/)
 
-All solutions tested with Python 3.11
+All solutions were tested with Python 3.11.
