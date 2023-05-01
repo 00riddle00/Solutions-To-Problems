@@ -1,4 +1,5 @@
-Problem description at LeetCode can be found [here](https://leetcode.com/problems/determine-if-two-events-have-conflict/).
+Problem description at LeetCode can be found
+[here](https://leetcode.com/problems/determine-if-two-events-have-conflict/).
 
 -------------
 

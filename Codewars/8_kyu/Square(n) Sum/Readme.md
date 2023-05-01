@@ -1,4 +1,5 @@
-Problem description at Codewars can be found [here](https://www.codewars.com/kata/515e271a311df0350d00000f/train/python).
+Problem description at Codewars can be found
+[here](https://www.codewars.com/kata/515e271a311df0350d00000f/train/python).
 
 -------------
 
