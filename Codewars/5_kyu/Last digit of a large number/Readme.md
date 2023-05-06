@@ -8,8 +8,8 @@ of a<sup>b</sup>. Note that a and b may be very large!
 <br>
 
 For example, the last decimal digit of 9<sup>7</sup> is 9, since 9<sup>7</sup> = 4782969. The last
-decimal digit of (2<sup>200</sup>)<sup><sup>2<sup>300</sup></sup></sup>, which has over
-10<sup>92</sup> decimal digits, is 6. Also, please take 0<sup>0</sup> to be 1.
+decimal digit of (2<sup>200</sup>)<sup>2<sup>300</sup></sup>, which has over 10<sup>92</sup> decimal
+digits, is 6. Also, please take 0<sup>0</sup> to be 1.
 <br>
 
 You may assume that the input will always be valid.
