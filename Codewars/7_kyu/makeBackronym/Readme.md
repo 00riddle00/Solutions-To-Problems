@@ -1,0 +1,33 @@
+Problem description at Codewars can be found
+[here](https://www.codewars.com/kata/55805ab490c73741b7000064/train/python).
+
+-------------
+
+#### back·ro·nym
+> An acronym deliberately formed from a phrase whose initial letters spell out a particular word or words, 
+> either to create a memorable name or as a fanciful explanation of a word's origin.
+>
+> "Biodiversity Serving Our Nation", or BISON
+<br>
+
+(from [https://en.oxforddictionaries.com/definition/backronym](https://en.oxforddictionaries.com/definition/backronym)
+<br>
+
+Complete the function to create backronyms. Transform the given string (without spaces) to a
+backronym, using the preloaded dictionary and return a string of words, separated with a single
+space (but no trailing spaces).
+<br>
+
+The keys of the preloaded dictionary are uppercase letters `A-Z` and the values are predetermined
+words, for example:
+```
+dictionary["P"] == "perfect"
+```
+<br>
+
+#### Examples
+```
+"dgm" ==> "disturbing gregarious mustache"
+
+"lkj" ==> "literal klingon joke"
+```
