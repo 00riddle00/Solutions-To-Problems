@@ -3,7 +3,7 @@ Problem description at Codewars can be found
 
 -------------
 
-write me a function `stringy` that takes a `size` and returns a `string` of alternating `'1s'` and
+Write me a function `stringy` that takes a `size` and returns a `string` of alternating `'1s'` and
 `'0s'`.
 <br>
 
@@ -20,4 +20,3 @@ with `size` 12 should return: `'101010101010'`.
 <br>
 
 The size will always be positive and will only use whole numbers.
-
