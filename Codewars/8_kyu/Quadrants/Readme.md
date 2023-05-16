@@ -18,10 +18,7 @@ integers, therefore the given point never lies on the axes.
 ```
 
 #### Reference
-![Quadrants]([https://www.codewars.com/kata/643af0fa9fa6c406b47c5399/train/python](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cartesian_coordinates_2D.svg/300px-Cartesian_coordinates_2D.svg.png)).
-
-Quadrants
-<br>
+![Quadrants](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cartesian_coordinates_2D.svg/300px-Cartesian_coordinates_2D.svg.png)
 
 There are four quadrants:
 1. First quadrant, the quadrant in the top-right, contains all points with positive X and Y
