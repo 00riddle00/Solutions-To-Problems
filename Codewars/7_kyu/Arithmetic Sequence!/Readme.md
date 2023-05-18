@@ -26,9 +26,9 @@ sequence.(That is, adding a constant to move to the next element in the "set").
 <br>
 
 The function's name is `nthterm`/`Nthterm`, it takes three inputs `first`,`n`,`c` where:
-- `first` is the first value in the 0 INDEX.
-- `n` is the index of the value we want.
-- `c` is the constant added between the terms.
+* `first` is the first value in the 0 INDEX.
+* `n` is the index of the value we want.
+* `c` is the constant added between the terms.
 <br>
 
 Remember that `first` is in the index `0` .. just saying ...

@@ -21,7 +21,7 @@ A non-negative number.
 `1 ≤ n.length ≤ 30.`
 <br>
 
-- `[output]` a string array
+* `[output]` a string array
 <br>
 
 Elements in the array should be sorted in descending order.

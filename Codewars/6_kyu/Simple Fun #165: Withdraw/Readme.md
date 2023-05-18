@@ -23,7 +23,7 @@ For `n = 370`, the result should be `[3, 1, 1]`.
 <br>
 
 #### Input/Output
-- `[input]` integer `n` Amount of money to withdraw. Assume that `n` is always exchangeable with
+* `[input]` integer `n` Amount of money to withdraw. Assume that `n` is always exchangeable with
   `[100, 50, 20]` bills.
-- `[output]` integer array An array of number of `100, 50 and 20` dollar bills needed to complete
+* `[output]` integer array An array of number of `100, 50 and 20` dollar bills needed to complete
   the withdraw (in that order).

@@ -46,12 +46,12 @@ The result should be `'bfghijklmnpqtuvxyz'`
 <br>
 
 #### Input/Output
-- `[input]` string `s`
+* `[input]` string `s`
 <br>
 
 Given string(s) contains one or more set of alphabets in lowercase.
 
-- `[output]` a string
+* `[output]` a string
 <br>
 
 Find the letters contained in each alphabet but not in the string(s). Output them by the order

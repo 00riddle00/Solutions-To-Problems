@@ -4,9 +4,9 @@ Problem description at Codewars can be found
 -------------
 
 The Collatz Conjecture states that for any positive natural number `n`, this process:
-- if `n` is even, divide it by `2`
-- if `n` is odd, multiply it by `3` and add `1`
-- repeat
+* if `n` is even, divide it by `2`
+* if `n` is odd, multiply it by `3` and add `1`
+* repeat
 <br>
 
 will eventually reach `n = 1`.

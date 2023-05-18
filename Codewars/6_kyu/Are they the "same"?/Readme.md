@@ -48,8 +48,8 @@ b = [121, 14641, 20736, 36100, 25921, 361, 20736, 361]
 <br>
 
 #### Remarks
-- `a` or `b` might be `[] or {}` (all languages except R, Shell).
-- `a` or `b` might be `nil` or `null` or `None` or `nothing` (except in C++, COBOL, Crystal, D,
+* `a` or `b` might be `[] or {}` (all languages except R, Shell).
+* `a` or `b` might be `nil` or `null` or `None` or `nothing` (except in C++, COBOL, Crystal, D,
   Dart, Elixir, Fortran, F#, Haskell, Nim, OCaml, Pascal, Perl, PowerShell, Prolog, PureScript, R,
   Racket, Rust, Shell, Swift).
 <br>
