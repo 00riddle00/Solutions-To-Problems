@@ -16,5 +16,5 @@ given string.
 ```
 <br>
 
-- don't worry about uppercase vowels
-- `y` is not considered a vowel for this kata
+* don't worry about uppercase vowels
+* `y` is not considered a vowel for this kata
