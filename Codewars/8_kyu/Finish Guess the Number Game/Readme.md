@@ -7,9 +7,9 @@ Imagine you are creating a game where the user has to guess the correct number. 
 of how many guesses the user can do.
 <br>
 
-- If the user tries to guess more than the limit, the function should throw an error.
-- If the user guess is right it should return true.
-- If the user guess is wrong it should return false and lose a life.
+* If the user tries to guess more than the limit, the function should throw an error.
+* If the user guess is right it should return true.
+* If the user guess is wrong it should return false and lose a life.
 <br>
 
 Can you finish the game so all the rules are met?

@@ -17,4 +17,4 @@ Examples (Input -> Output):
 ```
 
 Notes
-- You may consider that there will not be any empty arrays/vectors.
+* You may consider that there will not be any empty arrays/vectors.

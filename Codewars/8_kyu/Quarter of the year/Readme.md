@@ -12,4 +12,4 @@ quarter; and month 11 (November), is part of the fourth quarter.
 <br>
 
 Constraint:
-- `1 <= month <= 12`
+* `1 <= month <= 12`
