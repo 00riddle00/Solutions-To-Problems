@@ -29,6 +29,7 @@ Theater.seats nCols nRows col row == 96
 <br>
 
 Here is what the theater looks like:
+
 ![theater](https://files.gitter.im/myjinxin2015/eAjZ/blob)
 
 #### Input/Output
