@@ -3,4 +3,4 @@ Problem description at Codewars can be found
 
 -------------
 
-
+Complete the function which converts hex number (given as a string) to a decimal number.
