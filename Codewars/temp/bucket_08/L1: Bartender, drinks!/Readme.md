@@ -15,6 +15,7 @@ following table:
 | "Politician"       | "Your tax dollars"      |
 | "Rapper"           | "Cristal"               |
 | anything else      | "Beer"                  |
+<br>
 
 Note: anything else is the default case: if the input to the function is not any of the values in
 the table, then the return value should be `"Beer"`.
