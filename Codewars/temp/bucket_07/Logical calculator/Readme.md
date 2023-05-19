@@ -10,7 +10,7 @@ sequentially applying the operator to the values in the array.
 #### Examples
 1. booleans = `[True, True, False]`, operator = `"AND"`
    * `True` `AND` `True` -> `True`
-   * `True` AND `False` -> `False`
+   * `True` `AND` `False` -> `False`
    * return `False`
 2. booleans = `[True, True, False]`, operator = `"OR"`
    * `True` `OR` `True` -> `True`
