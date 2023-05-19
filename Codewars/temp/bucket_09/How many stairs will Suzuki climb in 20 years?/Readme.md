@@ -13,7 +13,7 @@ The sum of all the stairs logged in a year will be used for estimating the numbe
 20.
 <br>
 
-<u>20_year_estimate = one_year_total * 20</u>
+<ins>20_year_estimate = one_year_total * 20</ins>
 <br>
 
 You will receive the following data structure representing the stairs Suzuki logged in a year. You
