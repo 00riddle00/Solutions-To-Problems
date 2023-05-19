@@ -10,7 +10,7 @@ the other player who moves on the next round. Given whose turn it was on the pre
 whether he won, determine whose turn it is on the next round.
 
 #### Input/Output
-`[input]` string `lastPlayer/`$last_player`
+`[input]` string `lastPlayer`/`$last_player`
 <br>
 
 `"black"` or `"white"` - whose move it was during the previous round.
