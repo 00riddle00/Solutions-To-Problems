@@ -3,4 +3,13 @@ Problem description at Codewars can be found
 
 -------------
 
+Input: Array of elements
+<br>
 
+["h","o","l","a"]
+<br>
+
+Output: String with comma delimited elements of the array in th same order.
+<br>
+
+"h,o,l,a"
