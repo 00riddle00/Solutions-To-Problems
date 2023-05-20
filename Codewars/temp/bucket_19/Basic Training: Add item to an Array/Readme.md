@@ -3,4 +3,12 @@ Problem description at Codewars can be found
 
 -------------
 
+Add the value "codewars" to the websites array.
+After your code executes the websites array should == ["codewars"]
+<br>
 
+The websites array has already been defined for you using the following code:
+
+```
+websites = []
+```
