@@ -3,4 +3,9 @@ Problem description at Codewars can be found
 
 -------------
 
+#### Fix the bug in Filtering method
+The method is supposed to remove even numbers from the list and return a list that contains the odd
+numbers.
+<br>
 
+However, there is a bug in the method that needs to be resolved.
