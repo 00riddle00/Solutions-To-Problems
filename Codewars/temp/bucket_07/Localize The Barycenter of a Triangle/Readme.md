@@ -3,7 +3,7 @@ Problem description at Codewars can be found
 
 -------------
 
-![triangle](https://i.imgur.com/hpDQY8o.png?1)
+![Triangle](images/Triangle.png)
 
 The medians of a triangle are the segments that unit the vertices with the midpoint of their
 opposite sides. The three medians of a triangle intersect at the same point, called the barycenter
@@ -22,7 +22,7 @@ four decimals, (rounded result).
 
 You know that the coordinates of the barycenter are given by the following formulas.
 
-![formulas](https://i.imgur.com/B0tjxUG.jpg?1)
+![Formulas](images/Formulas.png)
 
 For additional information about this important point of a triangle see at:
 (https://en.wikipedia.org/wiki/Centroid)
