@@ -5,7 +5,7 @@ Problem description at Codewars can be found
 
 #### Backstory
 
-![Alan Partridge episode](https://pbs.twimg.com/media/BQRHvcFCQAABGH6.jpg)
+![Alan_Partridge_episode](images/Alan_Partridge_episode.jpg)
 <br>
 
 As a treat, I'll let you read part of the script from a classic 'I'm Alan Partridge episode:
