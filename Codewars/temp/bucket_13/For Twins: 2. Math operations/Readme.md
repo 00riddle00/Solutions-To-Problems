@@ -16,7 +16,7 @@ function `iceBrickVolume` that will accept these parameters:
 
 And return volume of ice brick that magician managed to put into a bottle.
 
-![bottle math](https://i.imgur.com/vU2zzm4.png)
+![Bottle](images/Bottle.png)
 
 #### Note:
 All inputs are integers. Assume no irregularities to the cuboid brick. You may assume the bottle is
