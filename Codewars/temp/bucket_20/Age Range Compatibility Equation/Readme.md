@@ -9,7 +9,6 @@ dating rule that a lot of people follow (including myself). It's the 'recommende
 which to date someone.
 
 ![Age_Range_Compatibility_Equation](images/Age_Range_Compatibility_Equation.jpg)
-<br>
 
 `minimum age <= your age <= maximum age`
 
