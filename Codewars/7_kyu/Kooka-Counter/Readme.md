@@ -9,8 +9,8 @@ A family of [kookaburras](https://en.wikipedia.org/wiki/Laughing_kookaburra) are
 I can't see them all, but I can hear them!
 <br>
 
-How many kookaburras are there?
-<br>
+#### How many kookaburras are there?
+![Kookaburras](images/Kookaburras.png)
 
 #### Hint
 The trick to counting kookaburras is to listen carefully
