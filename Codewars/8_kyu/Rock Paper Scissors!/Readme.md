@@ -6,7 +6,7 @@ Problem description at Codewars can be found
 Let's play! You have to return which player won! In case of a draw return `Draw!`.
 <br>
 
-### Examples (Input1, Input2 --> Output):
+#### Examples (Input1, Input2 --> Output):
 ```
 "scissors", "paper" --> "Player 1 won!"
 "scissors", "rock" --> "Player 2 won!"
