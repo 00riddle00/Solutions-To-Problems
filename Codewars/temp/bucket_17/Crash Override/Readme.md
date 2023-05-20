@@ -3,9 +3,6 @@ Problem description at Codewars can be found
 
 -------------
 
-![hacking](img/hacking.gif)
-<br>
-
 Every budding hacker needs an alias! `The Phantom Phreak`, `Acid Burn`, `Zero Cool` and `Crash
 Override` are some notable examples from the film `Hackers`.
 
