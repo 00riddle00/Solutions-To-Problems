@@ -13,4 +13,4 @@ Let's play! You have to return which player won! In case of a draw return `Draw!
 "paper", "paper" --> "Draw!"
 ```
 
-![Rock_Paper_Scissors](Rock_Paper_Scissors.png)
+![Rock_Paper_Scissors](images/Rock_Paper_Scissors.png)
