@@ -3,4 +3,18 @@ Problem description at Codewars can be found
 
 -------------
 
+#### Combine strings function
+Create a function named (`combine_names`) that accepts two parameters (first and last name). The
+function should return the full name.
+<br>
 
+Example:
+```
+combine_names('James', 'Stevens')
+```
+<br>
+
+returns:
+```
+'James Stevens'
+```

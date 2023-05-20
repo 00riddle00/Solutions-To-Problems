@@ -3,4 +3,9 @@ Problem description at Codewars can be found
 
 -------------
 
+#### Fix the function
+I created this function to add five to any number that was passed in to it and return the new value.
+It doesn't throw any errors but it returns the wrong number.
+<br>
 
+Can you help me fix the function?
