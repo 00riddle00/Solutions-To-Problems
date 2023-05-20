@@ -9,4 +9,4 @@ Problem description can also be found [here](https://projecteuler.net/problem=1)
 
 Answer:  **233168**
 
-Problem overview sheet can be found [here](https://projecteuler.net/overview=0001) or [here](images/ID-001_Multiples_of_3_or_5__Overview/.pdf).
+Problem overview sheet can be found [here](https://projecteuler.net/overview=0001) or [here](images/ID-001_Multiples_of_3_or_5__Overview.pdf).
