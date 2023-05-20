@@ -18,6 +18,7 @@ integers, therefore the given point never lies on the axes.
 ```
 
 #### Reference
+![Quadrants](images/Quadrants.png)
 ![Quadrants](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cartesian_coordinates_2D.svg/300px-Cartesian_coordinates_2D.svg.png)
 
 There are four quadrants:
