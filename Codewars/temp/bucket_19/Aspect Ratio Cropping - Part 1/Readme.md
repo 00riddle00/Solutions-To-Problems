@@ -20,11 +20,9 @@ This kata is part of a series with [Aspect Ratio Cropping - Part
 #### Example
 374 × 280 pixel image with a 4:3 aspect ratio.
 
-![Aspect ratio 4 3
-example](https://upload.wikimedia.org/wikipedia/commons/4/43/Aspect_ratio_4_3_example.jpg)
+![Aspect_ratio_4_3](images/Aspect_ratio_4_3.jpg)
 <br>
 
 500 × 280 pixel image with a 16:9 aspect ratio.
 
-![Aspect ratio 16 9
-example](https://upload.wikimedia.org/wikipedia/commons/2/2c/Aspect_ratio_16_9_example3.jpg)
+![Aspect_ratio_16_9](images/Aspect_ratio_16_9.jpg)
