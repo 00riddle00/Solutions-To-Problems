@@ -15,7 +15,7 @@ number of smaller cubes created by the cuts that have at least one red face.
 To make it clearer, the picture below represents the cube after (from left to right) 0, 1 and 2 cuts
 have been made.
 
-![cubes](https://i.imgur.com/36x8Fkv.png)
+![Cubes](images/Cubes.png)
 <br>
 
 Examples:
