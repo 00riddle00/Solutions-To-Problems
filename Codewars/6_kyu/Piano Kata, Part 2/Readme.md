@@ -16,6 +16,9 @@ rightmost/highest, 88th, key, C, you start all over again with your left little 
 key.
 <br>
 
+![Piano](images/Piano.jpg)
+<br>
+
 (If the Codewars Instructions pane resizes the above piano keyboard image to be too small to read
 the note labels of the black/sharp keys on your screen, [click here to open a copy of the image in a
 new tab or window](http://tachyonlabs.com/miscimages/piano-keyboard-with-notes-clipart.jpg).)
