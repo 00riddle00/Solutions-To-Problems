@@ -28,6 +28,9 @@ learn to move smoothly and with uniform pressure on the keys from each finger to
 and forth between hands.
 <br>
 
+![Piano](images/Piano.jpg)
+<br>
+
 You're not saying the names of the notes while you're doing this, but instead just counting each key
 press out loud (not starting again at 1 after 88, but continuing on to 89 and so forth) to try to
 keep a steady rhythm going and to see how far you can get before messing up. You move gracefully and
