@@ -3,7 +3,7 @@ Problem description at Codewars can be found
 
 -------------
 
-Your job is to find the gravitational force between two spherical objects (obj1 , obj2).
+Your job is to find the gravitational force between two spherical objects (obj1, obj2).
 
 #### Input
 Two arrays are given:
@@ -33,7 +33,7 @@ distance units are:
 * feet (ft)
 
 #### Note
-value of G = 6.67 × 10<sup>−11</sup>N⋅kg<sup>−2</sup>⋅m<sup>2</sup>
+value of G = 6.67 × 10<sup>−11</sup>N $\cdot$ kg<sup>−2</sup> $\cdot$ m<sup>2</sup>
 <br>
 
 1 ft = 0.3048 m
