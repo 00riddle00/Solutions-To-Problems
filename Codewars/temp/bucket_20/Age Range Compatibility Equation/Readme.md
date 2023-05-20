@@ -8,8 +8,7 @@ seven"](https://en.wikipedia.org/wiki/Age_disparity_in_sexual_relationships#The_
 dating rule that a lot of people follow (including myself). It's the 'recommended' age range in
 which to date someone.
 
-![Age Range Compatibility
-Equation](https://web.archive.org/web/20190206114947if_/http://weknowmemes.com/wp-content/uploads/2014/08/age-range-compatibility-equation.jpg)
+![Age_Range_Compatibility_Equation](images/Age_Range_Compatibility_Equation.jpg)
 <br>
 
 `minimum age <= your age <= maximum age`
