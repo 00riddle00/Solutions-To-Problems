@@ -30,7 +30,7 @@ Theater.seats nCols nRows col row == 96
 
 Here is what the theater looks like:
 
-![theater](https://files.gitter.im/myjinxin2015/eAjZ/blob)
+![theater](images/Theater.png)
 
 #### Input/Output
 * `[input]` integer `nCols`
