@@ -3,4 +3,10 @@ Problem description at Codewars can be found
 
 -------------
 
+When provided with a letter, return its position in the alphabet.
+<br>
 
+Input :: "a"
+<br>
+
+Ouput :: "Position of alphabet: 1"
