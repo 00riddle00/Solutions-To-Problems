@@ -1,0 +1,1 @@
+mystery = lambda: {'sanity': 'Hello'}
