@@ -1,1 +1,1 @@
-STRANGE_STRING = 'ß'
+STRANGE_STRING = "ß"

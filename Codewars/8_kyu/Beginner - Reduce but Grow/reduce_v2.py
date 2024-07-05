@@ -1,2 +1,2 @@
 def grow(a):
-    return eval('*'.join(map(str,a)))
+    return eval("*".join(map(str,a)))

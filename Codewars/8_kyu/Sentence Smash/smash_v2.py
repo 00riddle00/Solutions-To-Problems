@@ -1,1 +1,1 @@
-smash = ' '.join
+smash = " ".join

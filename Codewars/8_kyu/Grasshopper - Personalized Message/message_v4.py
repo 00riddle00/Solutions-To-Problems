@@ -1,1 +1,1 @@
-greet=lambda n,o:'Hello '+'gbuoessst'[n==o::2]
+greet=lambda n,o:"Hello "+"gbuoessst"[n==o::2]

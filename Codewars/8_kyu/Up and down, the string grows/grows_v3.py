@@ -1,1 +1,1 @@
-STRANGE_STRING = 'ΰ'
+STRANGE_STRING = "ΰ"

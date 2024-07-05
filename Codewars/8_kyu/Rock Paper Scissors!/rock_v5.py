@@ -1,5 +1,5 @@
 def rps(p1, p2):
-    beats = {'rock': 'scissors', 'scissors': 'paper', 'paper': 'rock'}
+    beats = {"rock": "scissors", "scissors": "paper", "paper": "rock"}
     if beats[p1] == p2:
         return "Player 1 won!"
     elif beats[p2] == p1:

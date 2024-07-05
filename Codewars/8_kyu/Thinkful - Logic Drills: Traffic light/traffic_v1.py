@@ -1,2 +1,2 @@
 def update_light(current):
-    return {'red':'green', 'green':'yellow', 'yellow': 'red'}[current]
+    return {"red":"green", "green":"yellow", "yellow": "red"}[current]

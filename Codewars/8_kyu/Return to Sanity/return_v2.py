@@ -1,1 +1,1 @@
-mystery = lambda: {'sanity': 'Hello'}
+mystery = lambda: {"sanity": "Hello"}

@@ -1,2 +1,2 @@
 def abbrevName(n):
-    return '.'.join(filter(str.isupper,n.title()))
+    return ".".join(filter(str.isupper,n.title()))

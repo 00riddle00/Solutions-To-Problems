@@ -1,2 +1,2 @@
 def reverse(st):
-    return ' '.join(reversed(st.split()))
+    return " ".join(reversed(st.split()))

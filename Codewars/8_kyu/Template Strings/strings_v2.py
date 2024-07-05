@@ -1,1 +1,1 @@
-temple_strings = '{} are {}'.format
+temple_strings = "{} are {}".format

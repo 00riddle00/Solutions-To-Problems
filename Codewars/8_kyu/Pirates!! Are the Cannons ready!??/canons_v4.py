@@ -1,2 +1,2 @@
 def cannons_ready(gunners):
-    return ('Fire!', 'Shiver me timbers!')['nay' in gunners.values()]
+    return ("Fire!", "Shiver me timbers!")["nay" in gunners.values()]

@@ -1,5 +1,5 @@
 def minimum(arr):
-    return __builtins__['min'](arr)
+    return __builtins__["min"](arr)
 
 def maximum(arr):
-    return __builtins__['max'](arr)
+    return __builtins__["max"](arr)
