@@ -1,0 +1,1 @@
+capitalizeWord = str.title
